@@ -1,5 +1,5 @@
 # sudoku-solving
-Solvin Sudokus in python
+Solving Sudokus in python
 
 
 ```
